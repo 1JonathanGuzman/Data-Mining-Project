@@ -42,6 +42,6 @@ To run the project:
 
             df = pd.read_csv(r'C:\Users\JonathanGuzman\Datasets\GamingStudy_data.csv', encoding='unicode_escape')
 
-    Once scikit-learn is installed, the dataset is downloaded onto your device, and the read_csv() function call has been modified to 
-    include the absolute filepath on your device, the project can be run using the .ipynb IDE of your choice. This project was 
+    Once scikit-learn is installed, the dataset is downloaded onto your device, and the read_csv() function call has been modified
+    to include the absolute filepath on your device, the project can be run using the .ipynb IDE of your choice. This project was 
     developed using Jupyter Notebook on the Anaconda Distribution platform, and can be run there.
